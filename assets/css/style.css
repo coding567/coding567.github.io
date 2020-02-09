@@ -3,7 +3,7 @@ html,body,ul,li,div,header,nav,main,footer{
     padding: 0;
 }
 html{
-    background-image: url(/assets/bak.svg);
+    /*background-image: url(/assets/bak.svg);*/
     /*background-size: 100%;*/
     background-position: center;
     /*background-color: white;*/
@@ -101,8 +101,8 @@ a{
 }
 
 .top{
-    height: 440px;
-    max-width: 1280px;
+    height: auto;
+    max-width: auto;
     margin: -20px auto;
     background-image: url(/assets/lineart.png);
     color: #555;
